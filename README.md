@@ -9,7 +9,7 @@ https://danielcastano.xyz/portfolio#/incookiewetrust/
 
 
 Schematic:
-![](https://static1.squarespace.com/static/5a660c0b1f318d7ab4e9ef29/t/5c60cc254785d3966116f681/1549847615718/schematics.png)
+![](https://static1.squarespace.com/static/5a660c0b1f318d7ab4e9ef29/t/5caf4df7ec212db47fcac6ab/1554992639322/schematics.png)
 
 
 You will find folders with every system independenly regarding:
